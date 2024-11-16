@@ -1277,7 +1277,7 @@ padding: 0;
 }
 
 /*--------------------------------------------------------------
-# Testimonials antronörler
+# Testimonials antrenörler
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
   box-sizing: content-box;
@@ -1287,7 +1287,7 @@ padding: 0;
 .testimonials .testimonial-item .testimonial-img {
   width: 360px;
   border-radius: 5%;
-  margin: 0 0 0 30px;
+  margin: 0 0 0 0;
   position: relative;
   z-index: 2;
   border: 6px solid rgba(255, 255, 255, 0.2);
@@ -1296,7 +1296,7 @@ padding: 0;
 .testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
-  margin: 10px 0 5px 40px;
+  margin: 10px 0 5px 20px;
   color: white;
   
 }
@@ -1304,7 +1304,7 @@ padding: 0;
 .testimonials .testimonial-item h4 {
   font-size: 14px;
   color: rgba(255, 255, 255, 0.6);
-  margin: 0 0 0 40px;
+  margin: 0 0 0 20px;
   
 }
 
